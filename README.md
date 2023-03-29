@@ -1,4 +1,4 @@
-<h3>Homework 2 - CS 587</h3>
+<h3>Homework 2 - CS 587 - Computer Systems Security</h3>
 
 <h3>Submission by: Sasanka Mouli Subrahmanya Sri Veleti</h3>
 <h3>UIN: 654322017</h3>
