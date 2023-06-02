@@ -1,12 +1,8 @@
-<h3>Homework 2 - CS 587 - Computer Systems Security</h3>
+<h3>Client-Server-Ethos-Go</h3>
 
-<h3>Submission by: Sasanka Mouli Subrahmanya Sri Veleti</h3>
-<h3>UIN: 654322017</h3>
-
-<h3>Object of the homework:</h3>
 <p>To develop two programs namely bankingserver.go, bankingclient.go and compile them for Ethos, and run them on Ethos operating system.</p>
 
-<h3>Files in the submission:</h3>
+<h3>Files in the project:</h3>
 <ol>
 <li><b>bankingclient.go</b> - the client file which consumes RPC's defined in server.</li>
 <li><b>bankingserver.go</b> - the server file contains the definations of the 4 different RPC's namely balance, deposit, withdraw, transfer.</li>
